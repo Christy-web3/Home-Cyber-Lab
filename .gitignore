@@ -1,0 +1,36 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Environment and secrets
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Logs and packet captures
+*.log
+*.pcap
+*.pcapng
+
+# Virtual machines and large disk images
+*.ova
+*.ovf
+*.vdi
+*.vmdk
+*.vhd
+*.vhdx
+*.iso
+
+# Raw or unsanitised evidence
+screenshots/raw/
+evidence/raw/
+
+# Editor files
+.idea/
+.vscode/
+*.swp
+*~
+
