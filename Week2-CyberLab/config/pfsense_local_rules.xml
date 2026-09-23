@@ -1,0 +1,6 @@
+<group name="local,pfsense,firewall,">
+  <rule id="100101" level="8">
+    <if_sid>87701</if_sid>
+    <description>LAB: pfSense blocked connection from $(srcip) to $(dstip):$(dstport)</description>
+  </rule>
+</group>

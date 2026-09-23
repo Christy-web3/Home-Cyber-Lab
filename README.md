@@ -122,3 +122,8 @@ Shut it down in reverse order, with pfSense last.
 
 Christy Francis — BSc Cyber Security student building practical defensive-security skills through an isolated home lab.
 
+## Week 2 – pfSense Firewall Monitoring
+
+Integrated pfSense firewall logs with Wazuh using rsyslog, created a custom detection rule, and detected controlled blocked TCP connections from Kali Linux.
+
+[View the complete Week 2 lab report](Week2-CyberLab/docs/lab-notes/2026-09-17-pfsense-wazuh-firewall-monitoring.md)
